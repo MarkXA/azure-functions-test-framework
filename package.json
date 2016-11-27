@@ -1,0 +1,13 @@
+{
+  "name": "mxa-azure-functions-test",
+  "version": "1.0.0-alpha.0",
+  "license": "MIT",
+  "homepage": "https://github.com/MarkXA/AzureFunctionsTest",
+  "repository": "MarkXA/AzureFunctionsTest",
+  "author": "Mark Allan <mark@ranyart.com>",
+  "description": "A test framework for Azure Functions",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.17.0"
+  }
+}
